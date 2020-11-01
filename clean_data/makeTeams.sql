@@ -1,0 +1,10 @@
+select * into GG from LCS where team LIKE 'Golden%';
+select * into TSM from LCS where team LIKE 'Team Solo%';
+select * into CLG from LCS where team LIKE 'Counter%';
+select * into "100T" from LCS where team LIKE '100%';
+select * into EG from LCS where team LIKE 'Evil%';
+select * into C9 from LCS where team LIKE 'Cloud%';
+select * into TL from LCS where team LIKE 'Team Liq%';
+select * into FQ from LCS where team LIKE 'Fly%';
+select * into DIG from LCS where team LIKE 'Dignit%';
+select * into IMT from LCS where team LIKE 'Immort%';
